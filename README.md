@@ -1,5 +1,7 @@
 # Spotify Clone - Frontend
 
+<img width="1464" height="796" alt="Captura de Tela 2025-11-25 às 10 19 00" src="https://github.com/user-attachments/assets/945f9512-fc2d-4844-a90c-361b3d908b46" />
+
 Uma cópia funcional do frontend do Spotify criada com React.js, TypeScript, Styled-components e Vite.
 
 ## Características
